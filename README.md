@@ -57,5 +57,5 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - Developed an automated system for collecting and analyzing data on sports camps and demographic data through web scraping using Python. Processed and analyzed information contained in PDFs using LangChain and language models (LLMs), and automatically generated detailed reports in PDF format with LaTeX.
 
 ## Contact
-For more information, please contact [Souhayle Ouaabi](mailto:your-email@example.com).
+For more information, please contact [Souhayle Ouaabi](mailto:souhayle.ouaabi99@gmail.com).
 
