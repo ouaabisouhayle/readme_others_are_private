@@ -1,30 +1,61 @@
 this is my readme because you cant access my private repo
 
-# My Projects
 
-This repository contains a collection of projects I have worked on during my 1.5 years of education at INSEA (National Institute of Statistics and Applied Economics). The projects span various domains including Reinforcement Learning, Natural Language Processing, Computer Vision, Machine Learning, Deep Learning, and Web Scraping.
+# Souhayle Ouaabi's Project Portfolio
 
-## Reinforcement Learning
+## Introduction
+This repository showcases the diverse range of projects I've worked on, demonstrating my expertise in data science, artificial intelligence, chatbot development, and more. The projects are grouped into different categories, highlighting the key technologies and methodologies used.
 
-Reinforcement Learning is a field I am passionate about and have been exploring through several projects. The `Reinforcement learning` folder contains implementations and experiments related to RL algorithms and techniques.
+## Projects
 
-## Natural Language Processing (NLP)
+### Reinforcement Learning
+#### Custom Environment Projects
+- **Truck Packing**: Developed an RL agent to optimize the packing of items into a truck, maximizing space utilization and efficiency.
+- **Trading Actions**: Created an RL environment to simulate trading scenarios and trained agents to make profitable trading decisions.
 
-In the `NLP` folder, you will find a selection of Natural Language Processing projects I have worked on. These projects demonstrate my experience in applying NLP techniques to solve real-world problems. Please note that the projects included here are the ones I have permission to share publicly on GitHub.
+#### OpenAI Gym Environments
+- **CartPole**: Implemented and compared various RL algorithms, including Q-Learning, Deep Q-Networks (DQN), and Double DQN (DDQN), to solve the CartPole balancing problem.
+- **CarRacing**: Developed an RL agent using Proximal Policy Optimization (PPO) to learn optimal control strategies for the CarRacing environment.
 
-## Computer Vision (CV)
+### Natural Language Processing (NLP)
+#### NLP Classification on Rotten Tomatoes
+- **Basic NLP Classification**: Implemented text preprocessing, tokenization, and feature extraction. Applied machine learning algorithms like Naive Bayes, Logistic Regression, and Support Vector Machines (SVM) for text classification.
+- **LSTM and Deep LSTM Models**: Utilized Long Short-Term Memory (LSTM) networks to capture sequential information in movie reviews. Experimented with different LSTM architectures to improve classification performance.
 
-The `Computer vision` folder showcases my work in the field of Computer Vision. It includes projects that involve tasks such as image classification, object detection, segmentation, and more. These projects highlight my ability to apply CV algorithms and frameworks to various applications.
+#### PEFT: Parameter-Efficient Fine-Tuning for LLMs
+- **Efficient Fine-Tuning Techniques**: Investigated various PEFT techniques such as adapters, prefix tuning, and low-rank adaptation. Implemented and compared different PEFT methods to identify the most effective approach.
+- **Resource Optimization**: Analyzed the trade-offs between fine-tuning efficiency and model performance. Optimized the fine-tuning process to reduce computational requirements without significant performance degradation.
 
-## Machine Learning and Deep Learning (ML and DL)
+#### Customer Request Classification
+- Designed and developed an advanced classification model to analyze customer requests, enabling automated and personalized responses using NLP techniques, TensorFlow, and deep learning approaches.
 
-Inside the `ML and DL` folder, you will find a collection of Machine Learning and Deep Learning projects. These projects tackle interesting real-world use cases and demonstrate my proficiency in applying ML and DL techniques to solve complex problems.
+### Langchain Projects
+#### Data Analyst Chatbot
+- **CSV Agent with Langchain**: Developed a chatbot that can interact with and analyze data stored in CSV files using Langchain’s agents and tools.
+- **SQL Agent with Langchain**: Created a chatbot that can interact with databases using SQL queries through Langchain’s SQL agent.
+- **Deep SQL Chain with Langchain**: Built a SQL agent from scratch using Langchain’s components and abstractions, implementing a deep learning model to generate SQL queries based on user input.
 
-## Web Scraping and Automation
+#### Financial Market Decision Support Chatbot
+- Developed a RAG-based chatbot to assist financial market professionals in decision-making, processing complex PDF documents containing text, images, and tables using LangChain, FAISS, Unstructured, and Embeddings.
 
-The `Scrapping and automation` folder contains projects related to web scraping and automation. I have utilized web scraping techniques to gather data required for various projects and automated repetitive tasks to streamline workflows.
+### Computer Vision and Machine Learning
+#### Multimodal Multilabel Disease Classification
+- Created a multimodal multilabel classification model to predict diseases from textual data and radiographic images using PyTorch, computer vision techniques, and NLP.
 
-Feel free to explore each project folder to learn more about the specific implementations, methodologies, and results achieved. Each project includes its own README file with detailed information and instructions.
+#### Movie Recommendation System
+- Designed an innovative movie recommendation system employing collaborative filtering techniques to offer personalized suggestions using TensorFlow and Pandas.
 
+#### Tennis Padel Stroke Classification
+- Developed a model integrated into a wearable device to classify tennis strokes in real-time based on multi-axis sensor data using TensorFlow and signal processing techniques.
 
-Thank you for visiting my project portfolio repository!
+### Time Series Forecasting
+#### Birth Forecasting
+- Forecasted child births in all provinces of Spain using LSTM networks and TensorFlow, applying time series analysis and forecasting techniques.
+
+### Web Scraping and Data Analysis
+#### Scraping and Analysis of Territorial (US) and Sports Data
+- Developed an automated system for collecting and analyzing data on sports camps and demographic data through web scraping using Python. Processed and analyzed information contained in PDFs using LangChain and language models (LLMs), and automatically generated detailed reports in PDF format with LaTeX.
+
+## Contact
+For more information, please contact [Souhayle Ouaabi](mailto:your-email@example.com).
+
