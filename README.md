@@ -88,11 +88,6 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - Applied various evaluation metrics including ROC AUC, PR AUC, precision, recall, and F1-score.
 - Implemented early stopping and learning rate scheduling for optimal training.
 
-#### Movie Recommendation System
-- Designed an innovative movie recommendation system employing collaborative filtering techniques to offer personalized suggestions using TensorFlow and Pandas.
-
-#### Tennis Padel Stroke Classification
-- Developed a model integrated into a wearable device to classify tennis strokes in real-time based on multi-axis sensor data using TensorFlow and signal processing techniques.
 
 ### Time Series Forecasting
 #### Birth Forecasting
@@ -111,6 +106,12 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 #### Football Analysis and Prediction
 - **Clustering of Formations**: Analyzed data from Bundesliga matches to cluster formations used during games, identifying common patterns and strategies using clustering algorithms.
 - **Event Prediction**: Developed a predictive model to forecast the type of movement in a football match, such as overlaps or runs behind the defense, using machine learning techniques.
+- 
+#### Movie Recommendation System
+- Designed an innovative movie recommendation system employing collaborative filtering techniques to offer personalized suggestions using TensorFlow and Pandas.
+
+#### Tennis Padel Stroke Classification
+- Developed a model integrated into a wearable device to classify tennis strokes in real-time based on multi-axis sensor data using TensorFlow and signal processing techniques.
 
 ### Web Scraping and Data Analysis
 #### LinkedIn Job Market Analysis
