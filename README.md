@@ -125,7 +125,7 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 
 - ![Football](images/football clusters.jpg)
 
-- ![Football](images/footbal formations.jpg)
+- ![Football2](images/footbal formations.jpg)
 
   
 #### Movie Recommendation System
