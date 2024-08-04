@@ -17,7 +17,7 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - Applied Double Deep Q-Network (DDQN) to train an agent for a racing car environment.
 - Explored improvements over traditional DQN for more stable learning in complex driving scenarios.
 
-- - ![car](images/racing car.jpg)
+- - ![car](images/racing_car.jpg)
 
 
 #### Energy Environment Creation and Optimization with PPO
@@ -66,8 +66,8 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 #### Financial Market Decision Support Chatbot
 - Developed a RAG-based chatbot to assist financial market professionals in decision-making, processing complex PDF documents containing text, images, and tables using LangChain, FAISS, Unstructured, and Embeddings.
 
-- - ![RAG](images/multimodal rag.jpg)
-- - ![RAG](images/multimodal rag 2.jpg)
+- - ![RAG](images/multimodal_rag.jpg)
+- - ![RAG](images/multimodal_rag 2.jpg)
 
 
 ### Computer Vision
@@ -123,9 +123,9 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - **Clustering of Formations**: Analyzed data from Bundesliga matches to cluster formations used during games, identifying common patterns and strategies using clustering algorithms.
 - **Event Prediction**: Developed a predictive model to forecast the type of movement in a football match, such as overlaps or runs behind the defense, using machine learning techniques.
 
-- ![Football](images/football clusters.jpg)
+- ![Football](images/football_clusters.jpg)
 
-- ![Football2](images/footbal formations.jpg)
+- ![Football2](images/footbal_formations.jpg)
 
   
 #### Movie Recommendation System
