@@ -149,10 +149,26 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - ![linkedin](images/streamlit2.PNG)
 
 
-#### Scraping and Analysis of Territorial (US) and Sports Data
-- Developed an automated system for collecting and analyzing data on sports camps and demographic data through web scraping using Python.
+## Scraping and Analysis of Territorial (US) and Sports Data
+
+- Developed an automated system for collecting and analyzing data on sports camps, recreational departments, schools, and preschools through web scraping using Python.
 - Processed and analyzed information contained in PDFs using LangChain and language models (LLMs).
-- Automatically generated detailed reports in PDF format with LaTeX.
+- Automatically generated detailed reports in PDF format with LaTeX, including demographic and sports program information.
+- Integrated data into Excel templates for structured reporting.
+
+### Architecture and Workflow
+
+#### Data Flow Diagram
+
+![Data Flow Diagram](images/combined_diagrams.png)
+
+#### Data Processing Flow
+
+![Data Processing Flow](images/combined_diagrams.png)
+
+### Excel Sheet Filling Process
+
+![Excel Sheet Filling](images/sheet_filling.jpg)
 
 ## Contact
 For more information, please contact [Souhayle Ouaabi](mailto:souhayle.ouaabi99@gmail.com).
