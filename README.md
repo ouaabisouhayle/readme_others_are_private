@@ -135,11 +135,19 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - Developed a model integrated into a wearable device to classify tennis strokes in real-time based on multi-axis sensor data using TensorFlow and signal processing techniques.
 
 ### Web Scraping and Data Analysis
-#### LinkedIn Job Market Analysis
+#### LinkedIn Job Market Analysis and Lead Generation
 - Developed a web scraping system to extract job offers from LinkedIn for Morocco and numerous other nations across all continents.
 - Conducted comprehensive data analysis using Matplotlib, Seaborn, and Power BI to visualize trends and insights in the global job market.
 - Created a job matching model using Natural Language Processing (NLP) and Deep Learning techniques to align job seekers with suitable opportunities.
-- Tools used: Web scraping libraries, Power BI, NLP frameworks, Deep Learning libraries.
+- Scraped profiles of LinkedIn users to collect relevant data for lead generation.
+- Utilized Selenium WebDriver to automate the data extraction process from LinkedIn profiles.
+- Processed and structured the raw data into JSON format for further analysis and utilization.
+- Tools used: Web scraping libraries, Power BI, NLP frameworks, Deep Learning libraries, Selenium, Python, JSON.
+- ![linkedin](images/linkedin_lead_gen_arch.jpg)
+- ![linkedin](images/linkedin_lead_gen.jpg)
+- ![linkedin](images/streamlit3.jpg)
+- ![linkedin](images/streamlit2.jpg)
+
 
 #### Scraping and Analysis of Territorial (US) and Sports Data
 - Developed an automated system for collecting and analyzing data on sports camps and demographic data through web scraping using Python.
