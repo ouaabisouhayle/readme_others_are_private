@@ -158,13 +158,9 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 
 ### Architecture and Workflow
 
-#### Data Flow Diagram
+#### Data Flow and Data Processing Flow 
 
 ![Data Flow Diagram](images/combined_diagrams.png)
-
-#### Data Processing Flow
-
-![Data Processing Flow](images/combined_diagrams.png)
 
 ### Excel Sheet Filling Process
 
