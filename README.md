@@ -67,7 +67,7 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - Developed a RAG-based chatbot to assist financial market professionals in decision-making, processing complex PDF documents containing text, images, and tables using LangChain, FAISS, Unstructured, and Embeddings.
 
 - - ![RAG](images/multimodal_rag.jpg)
-- - ![RAG](images/multimodal_rag 2.jpg)
+- - ![RAG](images/multimodal_rag_2.jpg)
 
 
 ### Computer Vision
