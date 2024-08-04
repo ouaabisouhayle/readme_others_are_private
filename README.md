@@ -32,6 +32,7 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 #### Truck Packing Environment and RL Solution
 - Developed a custom environment for optimizing truck packing and logistics.
 - Implemented RL algorithms to learn efficient packing strategies, maximizing space utilization.
+- ![Truck Packing](images/truck_pack.jpg)
 
 ### Natural Language Processing (NLP)
 #### NLP Classification on Rotten Tomatoes
