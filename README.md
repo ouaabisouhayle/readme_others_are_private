@@ -17,9 +17,17 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - Applied Double Deep Q-Network (DDQN) to train an agent for a racing car environment.
 - Explored improvements over traditional DQN for more stable learning in complex driving scenarios.
 
+- - ![car](images/racing car.jpg)
+
+
 #### Energy Environment Creation and Optimization with PPO
 - Developed a custom environment simulating energy management scenarios.
 - Implemented Proximal Policy Optimization (PPO) to optimize energy allocation and consumption.
+
+
+- ![energy env](images/nodes_energy_env.jpg)
+
+
 
 #### Grid World RL
 - Created a Grid World environment to demonstrate fundamental RL concepts.
@@ -32,7 +40,10 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 #### Truck Packing Environment and RL Solution
 - Developed a custom environment for optimizing truck packing and logistics.
 - Implemented RL algorithms to learn efficient packing strategies, maximizing space utilization.
+
+  
 - ![Truck Packing](images/truck_pack.jpg)
+
 
 ### Natural Language Processing (NLP)
 #### NLP Classification on Rotten Tomatoes
@@ -54,6 +65,10 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 
 #### Financial Market Decision Support Chatbot
 - Developed a RAG-based chatbot to assist financial market professionals in decision-making, processing complex PDF documents containing text, images, and tables using LangChain, FAISS, Unstructured, and Embeddings.
+
+- - ![RAG](images/multimodal rag.jpg)
+- - ![RAG](images/multimodal rag 2.jpg)
+
 
 ### Computer Vision
 #### Breast Cancer Immunohistochemical Image Generation
@@ -107,7 +122,12 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 #### Football Analysis and Prediction
 - **Clustering of Formations**: Analyzed data from Bundesliga matches to cluster formations used during games, identifying common patterns and strategies using clustering algorithms.
 - **Event Prediction**: Developed a predictive model to forecast the type of movement in a football match, such as overlaps or runs behind the defense, using machine learning techniques.
-- 
+
+- ![Football](images/football clusters.jpg)
+
+- ![Football](images/footbal formations.jpg)
+
+  
 #### Movie Recommendation System
 - Designed an innovative movie recommendation system employing collaborative filtering techniques to offer personalized suggestions using TensorFlow and Pandas.
 
