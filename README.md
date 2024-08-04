@@ -143,10 +143,10 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 - Utilized Selenium WebDriver to automate the data extraction process from LinkedIn profiles.
 - Processed and structured the raw data into JSON format for further analysis and utilization.
 - Tools used: Web scraping libraries, Power BI, NLP frameworks, Deep Learning libraries, Selenium, Python, JSON.
-- ![linkedin](images/linkedin_lead_gen_arch.jpg)
+- ![linkedin](images/linkedin_lead_gen_arch.png)
 - ![linkedin](images/linkedin_lead_gen.jpg)
-- ![linkedin](images/streamlit3.jpg)
-- ![linkedin](images/streamlit2.jpg)
+- ![linkedin](images/streamlit3.PNG)
+- ![linkedin](images/streamlit2.PNG)
 
 
 #### Scraping and Analysis of Territorial (US) and Sports Data
