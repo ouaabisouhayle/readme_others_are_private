@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is my readme because you cant access my private repo
 
 
@@ -68,6 +69,17 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 
 - - ![RAG](images/multimodal_rag.jpg)
 - - ![RAG](images/multimodal_ag_2.jpg)
+
+### Q&A System and PDF Report Generation Workflow
+
+1. **Input Reading**: Reads questions from the `qst.txt` file to understand the inquiry context.
+2. **Semantic Search**: Uses Pinecone to perform a semantic search on the questions, retrieving contextually relevant data.
+3. **Internet Research**: Employs the Serper API to conduct in-depth internet searches for additional insights.
+4. **Answer Synthesis**: Agents synthesize information and verify its completeness to compile accurate answers.
+5. **Information Embedding**: Embeds and upserts the question-answer pairs in Pinecone for future retrieval and reference.
+6. **PDF Report Creation**: Generates a structured PDF report summarizing all questions and their corresponding answers with timestamps and formatted content.
+
+- ![Q&A](images/Crew_architecture.jpeg)
 
 
 ### Computer Vision
@@ -166,5 +178,29 @@ This repository showcases the diverse range of projects I've worked on, demonstr
 
 ![Excel Sheet Filling](images/sheet_filling.jpg)
 
-## Contact
-For more information, please contact [Souhayle Ouaabi](mailto:souhayle.ouaabi99@gmail.com).
+
+### Web Scraping and Data Analysis
+
+## Speaker Separation and Transcription
+
+1. Input audio file.
+2. Apply Demucs for noise separation.
+3. Apply DeepFilterNet for further noise reduction.
+4. Convert audio to mono.
+5. Create manifest for diarization.
+6. Run diarization to separate speakers.
+7. Adjust overlapping segments.
+8. Parse RTTM file for diarization results.
+9. Process speaker embeddings.
+10. Transcribe segments using Groq.
+11. Filter for best speaker match.
+12. Correct transcription.
+13. Save final transcription to file.
+
+![Speaker Separation and Transcription Workflow](images/speaker_separation_transcription.png)
+
+
+
+
+>>>>>>> d625499b2acf8b7cdac40b8600873e060897d764
+>>>>>>> 7e7467a6863f43379fd165722be83742ec6a0c32
